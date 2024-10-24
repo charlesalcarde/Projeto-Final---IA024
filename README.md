@@ -28,7 +28,7 @@ Este projeto está dividido em etapas práticas e definidas:
 ### Relatório Final:
 
 * Documentar o pipeline implementado e os resultados obtidos, discutindo as limitações e sugerindo melhorias. O foco será na eficácia do modelo em gerar resumos adequados e coesos com base em múltiplos documentos científicos.
-* O relatório pode incluir uma análise dos resultados e a proposta de como o projeto poderia ser expandido para tarefas mais complexas no futuro.
+* O relatório deverá incluir uma análise dos resultados e uma proposta de como o projeto poderia ser expandido para tarefas mais complexas no futuro.
 
 ## 3. Ferramentas e Tecnologias
 * Dataset: SurveySum (disponível no Hugging Face Datasets).
